@@ -1,6 +1,6 @@
 import { Button } from '@/components/ui/button';
 import { useForm } from '@/hooks/formHooks';
-import { Textarea } from '../ui/textarea';
+import { Textarea } from './ui/textarea';
 import { useComment } from 'mediastore/apiHooks';
 import { useMediaContext } from 'mediastore/contextHooks';
 

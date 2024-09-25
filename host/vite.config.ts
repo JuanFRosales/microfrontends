@@ -14,6 +14,7 @@ export default defineConfig({
         front_and_sidebar: 'http://localhost:3002/assets/remoteEntry.js',
         profile: 'http://localhost:3003/assets/remoteEntry.js',
         login: 'http://localhost:3004/assets/remoteEntry.js',
+        comments: 'http://localhost:3005/assets/remoteEntry.js',
       },
       shared: ['react', 'react-dom', 'react-router-dom'],
     }),

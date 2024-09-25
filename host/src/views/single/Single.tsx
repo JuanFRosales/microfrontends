@@ -1,4 +1,4 @@
-import CommentArea from '@/components/comments/CommentArea';
+import CommentArea from 'comments/CommentArea';
 import VideoPlayer from '@/components/player/VideoPlayer';
 import { MediaContextType } from '@sharedTypes/DBTypes';
 import { useEffect } from 'react';
